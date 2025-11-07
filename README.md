@@ -276,8 +276,6 @@ This experimental project demonstrates fundamental concepts and techniques in Io
 
 ## Contact
 
-For inquiries or support, please reach out to Takashi Murachi at 850000605@nzse.ac.nz.
-
 ## Acknowledgments
 
 We extend our gratitude to the contributors and the open-source community for their invaluable support.
