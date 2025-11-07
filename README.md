@@ -176,13 +176,13 @@ This project is structured into four main tasks, each building upon the previous
 
     **Adafruit IO Sensor Dashboards:**
     *   Barometric Pressure:
-        ![Barometric Pressure Dashboard](Task4.1/Task4.1_4.2_Sensor_dashBoard_Barometric_Pressure.png)
+        ![Barometric Pressure Dashboard](Task4.1/Task4.1_Task4.2_Sensor_dashBoard_Barometric_Pressure.png)
     *   Humidity:
-        ![Humidity Dashboard](Task4.1/Task4.1_4.2_Sensor_dashBoard_Humidity.png)
+        ![Humidity Dashboard](Task4.1/Task4.1_Task4.2_Sensor_dashBoard_Humidity.png)
     *   Magnetometer:
         ![Magnetometer Dashboard](Task4.1/Task4.1_4.2_Sensor_dashBoard_Magnetometer.png)
     *   Temperature:
-        ![Temperature Dashboard](Task4.1/Task4.1_4.2_Sensor_dashBoard_Temperature.png)
+        ![Temperature Dashboard](Task4.1/Task4.1_Task4.2_Sensor_dashBoard_Temperature.png)
 
     **Adafruit IO Plot Examples:**
     *   Humidity Plot:
