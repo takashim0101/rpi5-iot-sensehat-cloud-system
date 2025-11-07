@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg
+*.egg-info/
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Project-specific
+*.csv
+*.docx
+*.mp4
+*.png
