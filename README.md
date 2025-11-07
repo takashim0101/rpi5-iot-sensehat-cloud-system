@@ -276,6 +276,8 @@ This experimental project demonstrates fundamental concepts and techniques in Io
 
 ## Contact
 
+For general inquiries, please open an issue on GitHub.
+
 ## Acknowledgments
 
 We extend our gratitude to the contributors and the open-source community for their invaluable support.
